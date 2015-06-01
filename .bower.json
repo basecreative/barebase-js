@@ -1,6 +1,11 @@
 {
   "name": "barebase-js",
   "homepage": "https://github.com/basecreative/barebase-js",
+  "ignore": [
+    "LICENSE",
+    "*.md",
+    "*.json"
+  ],
   "_release": "9e510aa1d9",
   "_resolution": {
     "type": "branch",
